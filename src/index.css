@@ -48,3 +48,22 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+.ResetBtn {
+  background: #fff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: 10px;
+  padding: 0;
+  text-align: center;
+  width: 100px;
+}
+
+.ResetBtn:hover {
+  background: #999;
+}
